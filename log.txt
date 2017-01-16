@@ -1,0 +1,62 @@
+Mon Jan 16 2017 13:36:37 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+
+RT @Big12Refs: Did the replay take awhile? Yes.
+Did we get it right? Probably not.
+Did you notice our arms? We know you did.
+
+@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+
+OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+
+@MikeAndMike is the Green Mamba capable of taking flight?
+
+@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+
+@Likenyo psssssh wait till we get out of class #HTownTakeover
+
+Mon Jan 16 2017 13:36:46 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+
+RT @Big12Refs: Did the replay take awhile? Yes.
+Did we get it right? Probably not.
+Did you notice our arms? We know you did.
+
+@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+
+OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+
+@MikeAndMike is the Green Mamba capable of taking flight?
+
+@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+
+@Likenyo psssssh wait till we get out of class #HTownTakeover
+
+Mon Jan 16 2017 13:47:02 GMT-0600 (Central Standard Time)
+node liri.js movie-this Space Jam
+Title: Space Jam
+Year: 1996
+IMDB Rating: 6.3
+Country: USA
+Language: English
+Plot: In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+Actors: Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+Rotten Tomato Rating: 5.0
+Rotten Tomato URL: http://www.rottentomatoes.com/m/space_jam/
+

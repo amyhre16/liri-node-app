@@ -1,16 +1,3 @@
-/*
-	execute the keys.js file
-		exports the twitterKeys object, properties are the keys
-	assign the exported object to twitterKeys var
-*/
-var twitterKeys = require("./keys.js").twitterKeys;
-
-// assign the keys and secrets to their respective variable
-var consumer_key = twitterKeys["consumer_key"];
-var consumer_secret = twitterKeys["consumer_secret"];
-var access_token_key = twitterKeys["access_token_key"];
-var access_token_secret = twitterKeys["access_token_secret"];
-
 var request = require('request');
 var Twitter = require('twitter');
 var spotify = require('spotify');
@@ -83,6 +70,20 @@ function runSwitch() {
 }
 
 function twitterRequest() {
+	/*
+		execute the keys.js file
+			exports the twitterKeys object, properties are the keys
+		assign the exported object to twitterKeys var
+	*/
+	var twitterKeys = require("./keys.js").twitterKeys;
+
+	// assign the keys and secrets to their respective variable
+	var consumer_key = twitterKeys["consumer_key"];
+	var consumer_secret = twitterKeys["consumer_secret"];
+	var access_token_key = twitterKeys["access_token_key"];
+	var access_token_secret = twitterKeys["access_token_secret"];
+
+	// create a new Twitter object
 	var client = new Twitter({
 		consumer_key: consumer_key,
 		consumer_secret: consumer_secret,

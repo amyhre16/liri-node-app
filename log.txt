@@ -1,4 +1,70 @@
-Mon Jan 16 2017 13:36:37 GMT-0600 (Central Standard Time)
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fri Jan 20 2017 00:02:04 GMT-0600 (Central Standard Time)
+node liri.js fdsafas 
+Error: fdsafas is not a valid action. Valid actions are 'my-tweets', 'spotify-this-song', 'movie-this', and do-what-it-says'
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Fri Jan 20 2017 00:02:18 GMT-0600 (Central Standard Time)
+node liri.js movie-this Mr. Nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 6.6
+Rotten Tomato URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+===========================================================================================
+
+===========================================================================================
+
+Fri Jan 20 2017 00:02:41 GMT-0600 (Central Standard Time)
+node liri.js movie-this Batman Begins
+Title: Batman Begins
+Year: 2005
+IMDB Rating: 8.3
+Country: USA, UK
+Language: English, Urdu, Mandarin
+Plot: After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.
+Actors: Christian Bale, Michael Caine, Liam Neeson, Katie Holmes
+Rotten Tomato Rating: 7.7
+Rotten Tomato URL: http://www.rottentomatoes.com/m/batman_begins/
+
+===========================================================================================
+
+===========================================================================================
+
+Fri Jan 20 2017 00:03:29 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song Hello
+
+Artist(s): Adele
+Song Name: Hello
+Album Name: Hello
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Fri Jan 20 2017 00:03:39 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Fri Jan 20 2017 00:04:23 GMT-0600 (Central Standard Time)
 node liri.js my-tweets 
 
 @CaitrionaLink I'm tweeting this from my console using POST :D
@@ -7,23 +73,11 @@ node liri.js my-tweets
 
 @Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
 
-O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+===========================================================================================
 
-RT @Big12Refs: Did the replay take awhile? Yes.
-Did we get it right? Probably not.
-Did you notice our arms? We know you did.
+===========================================================================================
 
-@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
-
-OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
-
-@MikeAndMike is the Green Mamba capable of taking flight?
-
-@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
-
-@Likenyo psssssh wait till we get out of class #HTownTakeover
-
-Mon Jan 16 2017 13:36:46 GMT-0600 (Central Standard Time)
+Fri Jan 20 2017 00:05:18 GMT-0600 (Central Standard Time)
 node liri.js my-tweets 
 
 @CaitrionaLink I'm tweeting this from my console using POST :D
@@ -32,31 +86,63 @@ node liri.js my-tweets
 
 @Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
 
-O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+===========================================================================================
 
-RT @Big12Refs: Did the replay take awhile? Yes.
-Did we get it right? Probably not.
-Did you notice our arms? We know you did.
+===========================================================================================
 
-@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+Fri Jan 20 2017 00:14:37 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
 
-OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+@CaitrionaLink I'm tweeting this from my console using POST :D
 
-@MikeAndMike is the Green Mamba capable of taking flight?
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
 
-@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
 
-@Likenyo psssssh wait till we get out of class #HTownTakeover
+===========================================================================================
 
-Mon Jan 16 2017 13:47:02 GMT-0600 (Central Standard Time)
-node liri.js movie-this Space Jam
-Title: Space Jam
-Year: 1996
-IMDB Rating: 6.3
-Country: USA
-Language: English
-Plot: In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
-Actors: Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
-Rotten Tomato Rating: 5.0
-Rotten Tomato URL: http://www.rottentomatoes.com/m/space_jam/
+===========================================================================================
+
+Fri Jan 20 2017 00:15:49 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+===========================================================================================
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fri Jan 20 2017 00:16:26 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+Error: [object Object]
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Fri Jan 20 2017 00:18:51 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+Error: [object Object]
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Fri Jan 20 2017 00:19:05 GMT-0600 (Central Standard Time)
+node liri.js movie-this Mr. Nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 6.6
+Rotten Tomato URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+===========================================================================================
 

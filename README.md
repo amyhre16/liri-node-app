@@ -31,6 +31,7 @@ To run LIRI, the user enters `node liri.js <action> <parameter` to run the node 
 * `do-what-it-says`
 	* This action uses [`fs`](https://www.npmjs.com/package/file-system) to read `random.txt` and run the command inside the file.
 
-### Logging Actions
+### Logging Actions/Errors
 Every action that the user executes is logged in a file named `log.txt` with the date/time, the command the user executed, and the data returned by LIRI.
 
+If there is an error in one of the requests, this is also logged in 'log.txt'

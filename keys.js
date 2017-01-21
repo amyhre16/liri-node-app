@@ -1,5 +1,4 @@
-console.log('this is loaded');
-
+// this is where you put your twitter keys. This gets imported to liri.js when the twitter action is executed
 exports.twitterKeys = {
   consumer_key: '<input here>',
   consumer_secret: '<input here>',

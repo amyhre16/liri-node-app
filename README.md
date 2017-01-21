@@ -3,7 +3,7 @@
 ## LIRI
 LIRI (*Language Interpretation and Recognition Interface*) is a NodeJS command line app that takes in parameters and gives you back data. Each action uses its own NPM package to run Server-side API request.
 
-To run LIRI, the user enters `node liri.js <action> <parameter` to run the node package specific to that action.
+To run LIRI, the user enters `node liri.js <action> <parameter>` to run the node package specific to that action.
 
 ### Actions
 * `my-tweets`
@@ -37,3 +37,10 @@ Every action that the user executes is logged in a file named `log.txt` with the
 If there is an error in one of the requests, this is also logged in 'log.txt'
 
 ## How to run LIRI
+* To be able to run LIRI on your own command line, you must have [Node.js](https://nodejs.org/en/download/) installed on your machine.
+* You will also need your own [Twitter API keys](https://apps.twitter.com/app/new).
+	* Once you have your keys, plug them into keys.js. 
+* Clone my liri-node-app repository to your terminal.
+* Once you've clone the repository, navigate to the liri-node-app volder, type `npm install` in your command line and press `Enter`.
+
+Now you can begin running LIRI commands from your terminal! 

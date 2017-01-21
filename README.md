@@ -35,3 +35,5 @@ To run LIRI, the user enters `node liri.js <action> <parameter` to run the node 
 Every action that the user executes is logged in a file named `log.txt` with the date/time, the command the user executed, and the data returned by LIRI.
 
 If there is an error in one of the requests, this is also logged in 'log.txt'
+
+## How to run LIRI

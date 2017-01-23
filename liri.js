@@ -239,7 +239,7 @@ function doWhatItSays() {
 		else {
 			var dataArr = data.split(",");
 			action = dataArr[0];
-			if (dataArr.lenth > 1) {
+			if (dataArr.length > 1) {
 				parameter = dataArr[1];
 				for (var i = 2; i < dataArr.length; i++) {
 					parameter += dataArr[i] + " ";

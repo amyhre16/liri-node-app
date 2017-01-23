@@ -146,3 +146,375 @@ Rotten Tomato URL: http://www.rottentomatoes.com/m/mr-nobody/
 
 ===========================================================================================
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 18:21:23 GMT-0600 (Central Standard Time)
+node liri.js undefined 
+Error: undefined is not a valid action. Valid actions are 'my-tweets', 'spotify-this-song', 'movie-this', and do-what-it-says'
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 18:21:35 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+Error: [object Object]
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Sun Jan 22 2017 18:23:18 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:23:38 GMT-0600 (Central Standard Time)
+node liri.js movie-this Space Jam
+Title: Space Jam
+Year: 1996
+IMDB Rating: 6.3
+Country: USA
+Language: English
+Plot: In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+Actors: Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+Rotten Tomato Rating: 5.0
+Rotten Tomato URL: http://www.rottentomatoes.com/m/space_jam/
+
+===========================================================================================
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 18:29:21 GMT-0600 (Central Standard Time)
+node liri.js undefined 
+Error: undefined is not a valid action. Valid actions are 'my-tweets', 'spotify-this-song', 'movie-this', and do-what-it-says'
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Sun Jan 22 2017 18:30:03 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Eyes of Texas
+
+Artist(s): Nicole Russin-McFarland
+Song Name: The Eyes of Old Texas (Rupert's Theme)
+Album Name: The Eyes of Old Texas (Original Motion Picture Soundtrack)
+Preview URL: https://p.scdn.co/mp3-preview/36b9a144aed2350664f2e97e8f1ec8ce521705dc?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:30:30 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song Texas Fight
+
+Artist(s): The University of Texas Longhorn Band
+Song Name: Texas Fight
+Album Name: Gameday Faves: Texas Longhorns Classics
+Preview URL: https://p.scdn.co/mp3-preview/b80d5321b56bbafc6ff39237fe4f9f3c3b1eb73a?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:31:09 GMT-0600 (Central Standard Time)
+node liri.js movie-this Mr. Nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 6.6
+Rotten Tomato URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:31:21 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:36:22 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:36:37 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:37:46 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:42:39 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:42:51 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:43:47 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:45:31 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:47:20 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:47:59 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:49:54 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:50:36 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:50:58 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:51:27 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:55:16 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song The Sign
+
+Artist(s): Ty Dolla $ign
+Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Preview URL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:57:39 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "The Eyes of Texas"
+
+Artist(s): The University of Texas Longhorn Band
+Song Name: The Eyes of Texas
+Album Name: Gameday Faves: Texas Longhorns Classics
+Preview URL: https://p.scdn.co/mp3-preview/39bd30ee411b0535c711bd5b54dc1ffad18ba149?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:58:12 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "The Eyes of Texas"
+
+Artist(s): The University of Texas Longhorn Band
+Song Name: The Eyes of Texas
+Album Name: Gameday Faves: Texas Longhorns Classics
+Preview URL: https://p.scdn.co/mp3-preview/39bd30ee411b0535c711bd5b54dc1ffad18ba149?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:58:21 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "Texas Fight"
+
+Artist(s): The University of Texas Longhorn Band
+Song Name: Texas Fight
+Album Name: Gameday Faves: Texas Longhorns Classics
+Preview URL: https://p.scdn.co/mp3-preview/b80d5321b56bbafc6ff39237fe4f9f3c3b1eb73a?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 18:58:48 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 19:01:29 GMT-0600 (Central Standard Time)
+node liri.js movie-this Mr. Nobody
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomato Rating: 6.6
+Rotten Tomato URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 19:02:37 GMT-0600 (Central Standard Time)
+node liri.js movie-this batman
+Title: Batman
+Year: 1989
+IMDB Rating: 7.6
+Country: USA, UK
+Language: English, French
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Rotten Tomato Rating: 6.6
+Rotten Tomato URL: http://www.rottentomatoes.com/m/1001781-batman/
+
+===========================================================================================
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 19:02:47 GMT-0600 (Central Standard Time)
+node liri.js undefined 
+Error: undefined is not a valid action. Valid actions are 'my-tweets', 'spotify-this-song', 'movie-this', and do-what-it-says'
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Sun Jan 22 2017 19:03:03 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+===========================================================================================
+

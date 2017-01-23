@@ -115,14 +115,14 @@ function twitterRequest() {
 		if there is an error, then run the logError function
 		otherwise, concatenate the tweets to a string and console/log the tweet info
 	*/
-	client.get('search/tweets', {q: 'AnthonyMyhre', count: 20}, function(err, tweets, response) {
+	client.get('statuses/user_timeline', {screen_name: 'AnthonyMyhre', count: 20}, function(err, tweets, response) {
 		if (err) {
 			logError(err);
 		}
 		else {
 			var tweetInfo = "";
-			for (var i = 0; i < tweets.statuses.length; i++) {
-				tweetInfo += "\n" + tweets.statuses[i].text + "\n";
+			for (var i = 0; i < tweets.length; i++) {
+				tweetInfo += "\n" + tweets[i].text + "\n";
 			}
 			console.log(tweetInfo);
 			logInfo(tweetInfo);

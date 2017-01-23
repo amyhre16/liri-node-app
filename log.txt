@@ -601,3 +601,253 @@ RT @TexasHumor: Current mood. https://t.co/k3owyTtQT7
 
 ===========================================================================================
 
+===========================================================================================
+
+Sun Jan 22 2017 20:51:01 GMT-0600 (Central Standard Time)
+node liri.js spotify-this-song "I Want it That Way"
+
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 20:57:17 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 20:58:22 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 20:59:18 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 21:04:15 GMT-0600 (Central Standard Time)
+node liri.js undefined 
+Error: undefined is not a valid action. Valid actions are 'my-tweets', 'spotify-this-song', 'movie-this', and do-what-it-says'
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Sun Jan 22 2017 21:04:24 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:04:45 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:04:55 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:06:01 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+RT @BleacherReport: Falcons slice up the Packers 44-21! https://t.co/By0ZJm6YWF
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:06:24 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+RT @BleacherReport: Falcons slice up the Packers 44-21! https://t.co/By0ZJm6YWF
+
+RT @TexasHumor: Current mood. https://t.co/k3owyTtQT7
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+
+RT @Big12Refs: Did the replay take awhile? Yes.
+Did we get it right? Probably not.
+Did you notice our arms? We know you did.
+
+@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+
+OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+
+@MikeAndMike is the Green Mamba capable of taking flight?
+
+@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+
+@Likenyo psssssh wait till we get out of class #HTownTakeover
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:08:05 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+RT @ESPNNFL: The Super Bowl Preview Issue cover of ESPN the Magazine https://t.co/cMZATCcDRV
+
+RT @SportsCenter: Almost unstoppable.
+
+Brady: most Super Bowl appearances all-time (player)
+Belichick: most Super Bowl appearances all-time…
+
+Relentless.
+
+This is the Patriots' NINTH appearance on football's biggest stage. https://t.co/AzqrO6bj04
+
+They're back again!
+
+The Patriots steamroll the Steelers to punch a ticket to Houston, where they'll play the Falco… https://t.co/r2anfTcz8Q
+
+More records for Serena.
+
+She joins Venus in a major quarterfinals for the 24th time. 18 of the last 23 times, one… https://t.co/QyYO0izpME
+
+RT @ESPNTennis: Moving on ⬆️...
+
+6-time champ Serena is through to her 47th Major QF, 11th at the #AusOpen, with 7-5 6-4 win over Strycova.…
+
+RT @ESPNTennis: 55 minutes in and Serena gets her 4th break of the match to clinch the opening set 7-5. Can she close out Strycova in strai…
+
+Only two players this postseason have 100 receiving yards and two TDs in a half: Antonio Brown … and Chris Hogan. https://t.co/vtOgxszLyX
+
+She's ready.
+
+Serena's quest for Grand Slam No. 23 rolls on Down Under on ESPN3. Watch here: https://t.co/yq7roZytSD https://t.co/HzTJgtoYRZ
+
+RT @ESPNNFL: Elite performance from Julio. https://t.co/dZ6NvGNddW
+
+RT @SportsCenter: RISE UP!
+
+Falcons dominate Packers, 44-21, to punch their ticket to the Super Bowl. https://t.co/PlFX2cxhHv
+
+What a difference 11 years makes. https://t.co/jCwcR4Mc6N
+
+Mavericks 122, Lakers 73.
+
+It's the biggest loss in Lakers history. https://t.co/WiJDyOtrzy
+
+The starters have been picked, but the NBA All-Star Game reserves are up for debate.
+
+@ESPNSteinLine on his picks: https://t.co/2CEiLUxQcy
+
+RT @SportsCenter: Chris Berman received a few surprises at the end of his final NFL Countdown in Bristol. 🙌 https://t.co/hWhAWhP1YV
+
+Mason Crosby's NFL-record streak of 23 straight made FGs in the postseason came to an end exactly where it started… https://t.co/49bxtQSHte
+
+RT @ESPNNFL: .@mortreport and @TomJackson57 surprise Boomer on his last Countdown show in Bristol. #ThankYouBoomer https://t.co/YCfuTQfGh0
+
+Growing up in a rough neighborhood, Josh Mook used boxing as an escape.
+
+@Gatorade’s "Win From Within" story airs a… https://t.co/B81ISRDkqm
+
+RT @SportsCenter: Royals' P Yordano Ventura has died in car accident in the Dominican Republic. He was 25 years old. https://t.co/lby7Y6ppMc
+
+Breaking: Former MLB IF Andy Marte was killed in a car accident early Sunday in the Dominican Republic. 
+
+He was 33… https://t.co/zO208pTujQ
+
+===========================================================================================
+
+===========================================================================================
+
+Sun Jan 22 2017 21:10:59 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+RT @BleacherReport: Falcons slice up the Packers 44-21! https://t.co/By0ZJm6YWF
+
+RT @TexasHumor: Current mood. https://t.co/k3owyTtQT7
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+
+RT @Big12Refs: Did the replay take awhile? Yes.
+Did we get it right? Probably not.
+Did you notice our arms? We know you did.
+
+@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+
+OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+
+@MikeAndMike is the Green Mamba capable of taking flight?
+
+@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+
+@Likenyo psssssh wait till we get out of class #HTownTakeover
+
+===========================================================================================
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Sun Jan 22 2017 21:14:26 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+Error: [object Object]
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+===========================================================================================
+
+Sun Jan 22 2017 21:14:41 GMT-0600 (Central Standard Time)
+node liri.js my-tweets 
+
+@Patriots are now 9-0 when Teddy Bruschi is the honorary team captain #IfItAintBroke
+
+RT @BleacherReport: Falcons slice up the Packers 44-21! https://t.co/By0ZJm6YWF
+
+RT @TexasHumor: Current mood. https://t.co/k3owyTtQT7
+
+@CaitrionaLink I'm tweeting this from my console using POST :D
+
+@kbohls @max_olson The Man in the High Castle is really good if you have Amazon Prime! Season 2 just got released last month
+
+@Espngreeny who have they played though? Most impressive win during this streak was against Seattle. None of those teams have good offenses
+
+O.J. Howard wide open for a TD?? Hmmmm sounds familiar 🤔🤔
+
+RT @Big12Refs: Did the replay take awhile? Yes.
+Did we get it right? Probably not.
+Did you notice our arms? We know you did.
+
+@craigway1 I miss DT! It feels like it's been a while since Texas has had a solid, reliable TE
+
+OH NO!! The refs are from the Big XII...why @NCAAFootball whhyyyyy
+
+@MikeAndMike is the Green Mamba capable of taking flight?
+
+@CodyPhillipsUT before the game last week I thought it was Bama's for the taking but after the osu game I have a lot more faith in Clemson
+
+@Likenyo psssssh wait till we get out of class #HTownTakeover
+
+===========================================================================================
+
